@@ -7,7 +7,7 @@ function setup() {
   function draw() {
     stroke("#FFEB3B");
     fill("#FFEB3B");
-  
+   
     // console.log(mouseIsPressed)
   
     if (mouseIsPressed) {
